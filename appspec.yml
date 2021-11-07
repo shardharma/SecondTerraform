@@ -3,7 +3,7 @@ version: 0.0
 os: windows
 files:
   - source: \code\
-    destination: \\amznfsxnbhqyesh.cloudops.com\share\beatcloudops\wwwroot
+    destination: \\fs-0b03fe11b687a021e.ad1.beatcloudops.com\share\beatcloudops\wwwroot
     overwrite: true
 
 
